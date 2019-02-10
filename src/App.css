@@ -24,7 +24,15 @@ body {
 .react-photo-gallery--gallery img:hover {
   filter: grayscale(0);
 }
-
+.addressTable {
+  width: 100%;
+}
+.mailingAddress {
+  text-align: center;
+  font-size: 0.75em;
+  padding: 1em;
+  line-height: 1.25em
+}
 h1 {
   font-size: 3em;
 }

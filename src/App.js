@@ -18,18 +18,18 @@ const App = () => (
           We got hitched in Muralto, Switzerland, on March 2nd 🤵👰🇨🇭
           <br />
           <br />
-          Organizing an international wedding has been. . .challenging,
-          especially since we still live on different continents! Once we
-          complete the immigration process, we plan to celebrate in the U.S.
+          Organizing an international wedding ain't easy,
+          especially when you live on different continents! Once we
+          complete the immigration process we plan to celebrate in the U.S.
           with all of our loved ones. That’s why we’ve built this website: to
-          share the story with you and to to keep you posted about the upcoming
+          share the story with you and to keep you posted about the upcoming
           party 🎉🇺🇸
         </p>
         <hr />
         <Photos />
         <hr />
         <p>
-          Since we have been blessed with all we need to be happy, we have
+          Since we have been blessed with all we need to be happy, we
           decided not to create a wedding registry. We feel that being
           surrounded by the people we love the most is our greatest gift--that’s
           why we can’t wait to start planning the party! However, for those of
@@ -45,12 +45,12 @@ const App = () => (
             <br />
             CH-6500 Bellinzona. conto corr. postale : 65-4750-4 (CHF).
             <br />
-            If you want to donate from abroad, let as know so we can help
+            If you want to donate from abroad (i.e. not Europe), let as know so we can help
             coordinate.
           </li>
           <br />
           <li>
-            In US:
+            In the US:
             <strong> Communities in Schools of Spokane, Rescue for All</strong>
             <br />
             If you want to donate from abroad, let as know so we can help
@@ -58,12 +58,30 @@ const App = () => (
           </li>
         </ul>
         <p>
-          👉 Until we settle down together, you can send us card here: portland.
-          <br />
           👉 Stay tuned for the party.
           <br />
           👉 What’s up with the feet on our wedding announcement card?
         </p>
+        <table className="addressTable">
+          <tr>
+            <td className="mailingAddress"> Hailey Foster
+              <br />
+              4303 SE 76th Ave.
+              <br />
+              Portland, OR 97206
+              <br />
+              USA
+            </td>
+            <td className="mailingAddress">Nick Balestra
+              <br />
+              4 Pritchards Road, Flat A
+              <br />
+              London E29AP
+              <br />
+              United Kingdom
+            </td>
+          </tr>
+        </table>
       </div>
     </div>
   </div>
