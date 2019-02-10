@@ -1,0 +1,83 @@
+{
+  "photos": [
+    {
+      "src": "https://placekitten.com/1500/1000",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/666/1000",
+      "width": 666,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/1500/844",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "https://placekitten.com/1500/1000",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/666/1000",
+      "width": 666,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/1500/844",
+      "width": 1500,
+      "height": 844
+    },{
+      "src": "https://placekitten.com/1500/1000",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/666/1000",
+      "width": 666,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/1500/844",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "https://placekitten.com/1500/1000",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/666/1000",
+      "width": 666,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/1500/844",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "https://placekitten.com/1500/1000",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/666/1000",
+      "width": 666,
+      "height": 1000
+    },
+    {
+      "src": "https://placekitten.com/1500/844",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "https://placekitten.com/1500/1000",
+      "width": 1500,
+      "height": 1000
+    }
+  ]
+}
