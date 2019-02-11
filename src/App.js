@@ -55,7 +55,7 @@ const App = () => (
           <br />
           <li>
             In the US:
-            <strong> <a href="http://myvoicemusic.org/#home">My Voice Music</a> </strong>
+            <strong> <a href="http://myvoicemusic.org/#home" target="_blank">My Voice Music</a> </strong>
             <br />
             Blurb about the organization
             <br />
