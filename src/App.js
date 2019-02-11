@@ -43,6 +43,10 @@ const App = () => (
             In Switzerland:
             <strong> Volontarie Vincenziane del Bellinzonese</strong>
             <br />
+            Blurb about the organization
+            <br />
+            Quick directions to donate
+            <br />
             CH-6500 Bellinzona. conto corr. postale : 65-4750-4 (CHF).
             <br />
             If you want to donate from abroad (i.e. not Europe), let as know so we can help
@@ -51,10 +55,11 @@ const App = () => (
           <br />
           <li>
             In the US:
-            <strong> Communities in Schools of Spokane, Rescue for All</strong>
+            <strong> <a href="http://myvoicemusic.org/#home">My Voice Music</a> </strong>
             <br />
-            If you want to donate from abroad, let as know so we can help
-            coordinate.
+            Blurb about the organization
+            <br />
+            How to donate
           </li>
         </ul>
         <p>
@@ -64,7 +69,8 @@ const App = () => (
         </p>
         <table className="addressTable">
           <tr>
-            <td className="mailingAddress"> Hailey Foster
+            <td className="mailingAddress"> 
+              <strong> Hailey Foster </strong>
               <br />
               4303 SE 76th Ave.
               <br />
@@ -72,7 +78,8 @@ const App = () => (
               <br />
               USA
             </td>
-            <td className="mailingAddress">Nick Balestra
+            <td className="mailingAddress">
+              <strong>Nick Balestra</strong>
               <br />
               4 Pritchards Road, Flat A
               <br />
